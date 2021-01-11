@@ -41,7 +41,7 @@ data
   s.dependency 'RxSwift', '>= 6.0.0.beta-1'
   s.dependency 'RxCocoa', '>= 6.0.0.beta-1'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.tvos.deployment_target = '9.0'
 
 end
